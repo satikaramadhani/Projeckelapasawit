@@ -1,6 +1,6 @@
 # Projeckelapasawit
 Desain sebuah projec kelapa sawit dengan mendesain menggunakan coding dan akan dijalankan sesuai rancangan.
-* ALIRAN KERJA * 
+* ALIRAN KERJA 
   1. Mendesain projek yang akan dibuat
   2. Membuat koding sesuai dengan tugas project yang diberikan
   3. Membuat koding yang sesuai dengan rancangan yang sudah dipikirkan
@@ -8,7 +8,7 @@ Desain sebuah projec kelapa sawit dengan mendesain menggunakan coding dan akan d
   5. Minginput data pohon kelapa sawit dan akan tersimpan ke dalam berkas data KST.txt
   6. Mengecek kesesuaian data yang telah diinput
   7. Keluar
- * FUNGSIONALITAS * 
+ * FUNGSIONALITAS 
   1. Tambah pohon kepala sawit:
     - Masukkan nomor pohon
     - Data pohon Kelapa Sawit akan tersimpan dalam data KST.txt
@@ -18,7 +18,7 @@ Desain sebuah projec kelapa sawit dengan mendesain menggunakan coding dan akan d
     - Masukkan nomor pohon, lalu setelah diinput data dari nomor yang diinput akan muncul
   4. Selesai
     - Keluar program
- * FORMAT BERKAS *
+ * FORMAT BERKAS 
   1. ProjectKelapaSawit.c
     - Berisi koding untuk menjalankan program
   2. KST.txt
